@@ -5,4 +5,4 @@ Traffic Light Detection
 [toc]
 
 ## 数据集
-数据集下载：[https://aistudio.baidu.com/aistudio/datasetdetail/34356]（https://aistudio.baidu.com/aistudio/datasetdetail/34356）
+数据集下载：[https://aistudio.baidu.com/aistudio/datasetdetail/34356](https://aistudio.baidu.com/aistudio/datasetdetail/34356)
