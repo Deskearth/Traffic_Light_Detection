@@ -2,6 +2,7 @@
 Traffic Light Detection
 
 ## PaddleX版本
+位于PaddleX目录下
 ### 数据集
 数据集下载：
 * 训练集：https://aistudio.baidu.com/aistudio/datasetdetail/30989
