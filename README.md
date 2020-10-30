@@ -1,5 +1,6 @@
 # Traffic_Light_Detection
-15届全国大学生智能汽车竞赛 深度学习组 线上选拔赛方案
+15届全国大学生智能汽车竞赛 深度学习组 线上选拔赛目标检测方案    
+本仓库为初期验证方案，最终方案移步[https://aistudio.baidu.com/aistudio/projectdetail/554073](https://aistudio.baidu.com/aistudio/projectdetail/554073)
 
 ## [PaddleX版本](https://github.com/Deskearth/Traffic_Light_Detection/tree/master/PaddleX/TrafficLight)
 位于PaddleX目录下
