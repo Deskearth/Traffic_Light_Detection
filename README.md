@@ -2,7 +2,7 @@
 15届全国大学生智能汽车竞赛 深度学习组 线上选拔赛目标检测方案    
 本仓库为初期验证方案，最终方案移步[https://aistudio.baidu.com/aistudio/projectdetail/554073](https://aistudio.baidu.com/aistudio/projectdetail/554073)
 
-## [PaddleX版本](https://github.com/Deskearth/Traffic_Light_Detection/tree/master/PaddleX/TrafficLight)
+## [PaddleX方案](https://github.com/Deskearth/Traffic_Light_Detection/tree/master/PaddleX/TrafficLight)
 位于PaddleX目录下
 ### 数据集
 数据集下载：
@@ -28,7 +28,7 @@ PaddlePaddle
   请参考paddlex文档页：https://paddlex.readthedocs.io/zh_CN/latest/install.html  
   但是pycocotools无法按照文档页中的方法安装，请参考：https://www.jianshu.com/p/8658cda3d553 的方案2
 
-## [PyTorch版本](https://github.com/Deskearth/Traffic_Light_Detection/tree/master/torch)
+## [PyTorch方案](https://github.com/Deskearth/Traffic_Light_Detection/tree/master/torch)
 Classification Plus Localization
 ### 数据集
 数据集下载：[https://aistudio.baidu.com/aistudio/datasetdetail/34356](https://aistudio.baidu.com/aistudio/datasetdetail/34356)
