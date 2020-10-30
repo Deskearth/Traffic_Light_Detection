@@ -29,6 +29,7 @@ PaddlePaddle
   但是pycocotools无法按照文档页中的方法安装，请参考：https://www.jianshu.com/p/8658cda3d553 的方案2
 
 ## [PyTorch版本](https://github.com/Deskearth/Traffic_Light_Detection/tree/master/torch)
+Classification Plus Localization
 ### 数据集
 数据集下载：[https://aistudio.baidu.com/aistudio/datasetdetail/34356](https://aistudio.baidu.com/aistudio/datasetdetail/34356)
 
