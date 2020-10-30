@@ -1,5 +1,5 @@
 # Traffic_Light_Detection
-Traffic Light Detection
+15届全国大学生智能汽车竞赛 深度学习组 线上选拔赛方案
 
 ## [PaddleX版本](https://github.com/Deskearth/Traffic_Light_Detection/tree/master/PaddleX/TrafficLight)
 位于PaddleX目录下
